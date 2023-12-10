@@ -1,2 +1,5 @@
-2023/12/04-21:10:45.172 baa4 Creating DB C:/Users/12345/Documents/Unreal Projects/Metro/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/12/04-21:10:45.184 baa4 Reusing MANIFEST C:/Users/12345/Documents/Unreal Projects/Metro/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/06-01:42:53.677 2948 Reusing MANIFEST C:/Users/12345/Documents/Unreal Projects/Metro/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/06-01:42:53.678 2948 Recovering log #3
+2023/12/06-01:42:53.678 2948 Level-0 table #3: started
+2023/12/06-01:42:53.681 2948 Level-0 table #3: 15287 bytes OK
+2023/12/06-01:42:53.683 2948 Delete type=0 #3
